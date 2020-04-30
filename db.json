@@ -1,7 +1,10 @@
 {
-  "resultados": [
-    {"nombre": "edinson"},
-    {"nombre": "silvy"},
-    {"nombre": "gabo"}
-   ]
+  "results" : 
+  {
+    "personas": [
+      {"nombre": "edinson"},
+      {"nombre": "silvy"},
+      {"nombre": "gabo"}
+     ]
+  }
 }
