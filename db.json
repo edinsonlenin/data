@@ -1,10 +1,10 @@
 {
   "results" : 
-  {
+  [{ "id" : 1,
     "personas": [
       {"nombre": "edinson"},
       {"nombre": "silvy"},
       {"nombre": "gabo"}
      ]
-  }
+  }]
 }
